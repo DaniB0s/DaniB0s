@@ -259,7 +259,7 @@ for i in range(repeat):
 if __name__ == '__main__':
 	main_menu()
 		
-else:
-    print(BOLD+RED+'[-] <==> Your Number Is Wrong Please Take Aproval From Owner')
+
+    
 
 #Open the text.txt file for appending. 
