@@ -136,11 +136,11 @@ def logo():
     
    
 
-      msg = string(os.geteuuid())
-      time.sleep(0.5)
-      logo()
-      pass
-    else:
+      
+      
+    
+     
+ 
       print("Your Token : "+id)
       print('\33[1;37m----------------------------------------------')
       print("\33[1;32mImportant Note")
