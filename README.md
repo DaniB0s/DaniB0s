@@ -1,4 +1,4 @@
-#conversation tool by xD Surya
+#conversation tool by xD Dani
 from platform import system
 import sys
 def testPY():
@@ -127,15 +127,15 @@ def logo():
 
 
 
-def approval():
-  os.system('clear')
+
+
   
-  uid = str(os.geteuiud()) + str(os.getlogin())
-  id = "-".join(uuuid)
-  try:
-    httpCaht = requests.get('https://pastebin.com/F7igEbnM').text
-    if id in httpCaht:
-      print("\33[1;32mYour Token is Successfully Approved")
+  
+  
+ 
+    
+   
+
       msg = string(os.geteuuid())
       time.sleep(0.5)
       logo()
